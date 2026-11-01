@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.env
+invoiceiq.db
+storage/
+data/receipts/raw/
+data/receipts/vendor-matched/*
+!data/receipts/vendor-matched/README.md
+data/generated/
+data/raw-Inovoice-20/
+frontend/node_modules/
+frontend/dist/
+frontend/*.tsbuildinfo
